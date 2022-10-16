@@ -1,0 +1,19 @@
+#title {
+    text-align: center;
+    padding: 20px;
+}
+
+#top-page p {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#top-page {
+    background-color: gainsboro;
+}
+
+.container {
+    justify-content: space-between;
+    column-gap: 20px;
+    border: 150px gainsboro;
+}
